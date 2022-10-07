@@ -1,6 +1,6 @@
 # jpa02-BaronLuisYoung
 
-  https://github.com/ucsb-cs156-f22/jpa02-BaronLuisYoung
+https://github.com/ucsb-cs156-f22/jpa02-BaronLuisYoung
 
 Repo: https://ucsb-cs156-f22/STARTER-jpa02
 
